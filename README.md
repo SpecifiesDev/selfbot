@@ -9,7 +9,7 @@
 - Your token will be at the bottom of the list.
 # Commands
 * clear
-- This command will clear any messasge you've sent in a channel, then send a message when it has finished.
+This command will clear any messasge you've sent in a channel, then send a message when it has finished.
 * adminclear (risky)
-- Running this in a server that you have message delete permissions in will delete every message in that channel.
+Running this in a server that you have message delete permissions in will delete every message in that channel.
 
