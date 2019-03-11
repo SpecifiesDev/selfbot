@@ -30,8 +30,10 @@ First you're going to want to grab your discord token. A simple google will give
 <br>
 <br>
 Honestly I think it's interesting how I tackled this. I originally made the silentclear command because I had blocked someone and typing "clear" in the DM didn't work. It evolved to become much more useful, as I can use it to clear DMS without notifying the user. At the start of the program, every channel in your PMS is looped through and placed in a text file. Basic format of the output:
-> (channelid) (position of id in created array) - Name of the person the DM is with
->
+<br>
+<br>
+(channelid) (position of id in created array) - Name of the person the DM is with
+
 <br>
 <b>Using it</b>
 <br>
